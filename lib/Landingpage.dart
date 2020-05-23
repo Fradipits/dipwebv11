@@ -404,7 +404,7 @@ class Landingpage extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Text(
-                      "Computer Engineering Student at Sepuluh Nopember Institute of Technology",
+                      "Computer Engineering Student",
                       style: TextStyle(
                           fontSize: 10.0,
                           color: Color.fromRGBO(31, 31, 31, 0.7)),
@@ -428,7 +428,7 @@ class Landingpage extends StatelessWidget {
               height: 8.0,
             ),
             Container(
-              padding: EdgeInsets.only(left: 90),
+              padding: EdgeInsets.only(left: 40),
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
